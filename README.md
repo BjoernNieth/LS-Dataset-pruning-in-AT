@@ -1,7 +1,7 @@
 # Large-Scale Dataset Pruning in Adversarial Training via Data Importance Score Extrapolation
 
-This ZIP-File contains the source code and the data to repeat the experiments for the paper "Large-Scale Dataset Pruning in Adversarial Training via Data Importance Score
-Extrapolation". After the publication of the paper, this code will be available on GitHub
+This repository contains the source code for the paper "Large-Scale Dataset Pruning in Adversarial Training via Data Importance Score
+Extrapolation".
 
 ## Project structure
 
